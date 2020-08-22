@@ -1,5 +1,5 @@
 
-<p align="center">### HXD.VN 👋</p>
+### HXD.VN 👋
 <p align="center">
 - 🔭 I’m currently working on home
   </br>
