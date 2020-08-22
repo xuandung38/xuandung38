@@ -3,7 +3,7 @@
 <p align="center">
 - 🔭 I’m currently working on home
   </br>
-- 👯 I’m looking to collaborate on [hxd.vn](https://hxd.vn)
+- 👯 I’m looking to collaborate on https://hxd.vn
   </br>
 - ⚡ Fun fact: Nothings is Impossible
   </br>
