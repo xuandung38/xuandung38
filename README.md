@@ -5,5 +5,5 @@
 - ⚡ Fun fact: Nothings is Impossible
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuandung38&bg_color=30,0abcc2,c20a4a&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api?username=xuandung38&bg_color=30,19e3fa,1977fa&title_color=fff&text_color=fff">
 </p>
