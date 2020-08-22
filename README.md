@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### HXD.VN 👋
 
 - 🔭 I’m currently working on home
-- 👯 I’m looking to collaborate on [hxd.me](https://hxd.me)
+- 👯 I’m looking to collaborate on [hxd.vn](https://hxd.vn)
 - ⚡ Fun fact: Nothings is Impossible
 
 <p align="center">
