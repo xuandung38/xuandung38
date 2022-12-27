@@ -13,4 +13,4 @@
   <br />
 </p>
 
-![image](./profile-3d-contrib/profile-green-animate.svg)
+![image](./profile-3d-contrib/profile-south-season-animate.svg)
