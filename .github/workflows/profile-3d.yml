@@ -2,7 +2,7 @@ name: Profile-3D
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+    - cron: "0 0 10 * *"
   workflow_dispatch:
 
 jobs:
